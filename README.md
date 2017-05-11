@@ -12,5 +12,7 @@ Para instalarlo ejecutamos:
 npm i ng2-file-upload --save
 ```
 
+A éste ejemplo le faltaría el backend. En la página oficial está resuelto con `express` pero para la clase nos piden hacerlo con `Slim Framework 3`.
 Hacer un API con Slim y desde el otro lado recibir el archivo. Eso por ahora.
+
 
